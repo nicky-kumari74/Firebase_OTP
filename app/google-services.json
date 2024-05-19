@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238562469166",
+    "project_id": "my-otp-3e6af",
+    "storage_bucket": "my-otp-3e6af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238562469166:android:05c32008fc84778ed106bf",
+        "android_client_info": {
+          "package_name": "com.example.forebase_otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPRm2bRPUzcbKfSAa44BQo0jky4E5_BJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
